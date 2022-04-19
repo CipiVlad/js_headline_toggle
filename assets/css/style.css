@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+html {
+    font-size: 10px;
+    background-color: lightskyblue;
+    text-align: center;
+
+}
+
+.buckethead {
+    font-size: 5em;
+    color: lightcoral;
+    margin-top: 100px;
+}
+
+.bucketlist {
+    font-size: 3rem;
+    color: rgb(239, 246, 191);
+    padding: 50px;
+    line-height: 1.5em;
+}
+
+.bucketlist li {
+    list-style: none;
+}
+
+.btncss {
+    color: darkblue;
+    padding: 0.4em;
+}
+
+.newheadlineA {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
+
+}
